@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# ANDREA CHAMORRO'S PAGE
 
 You can use the [editor on GitHub](https://github.com/achamorr/eportfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. This is a comment
+2. This is a numbered list
 
 **Bold** and _Italic_ and `Code` text
 
