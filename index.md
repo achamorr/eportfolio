@@ -1,6 +1,6 @@
 # ANDREA CHAMORRO'S PAGE
 
-### anch9699@colorado.edu | 970-549-0437 | 2510 Kittredge Loop Dr. ANDR 28              ![This is yours truly](22.jpg)
+### anch9699@colorado.edu | 970-549-0437 | 2510 Kittredge Loop Dr. ANDR 28              ![This is yours truly](https://achamorr.github.io/eportfolio/22.JPG)
 
 ## Education
 ### B.S COMPUTER SCIENCE, UNIVERSITY OF COLORADO- BOULDER 	Anticipated 2021
