@@ -1,3 +1,5 @@
+<script src="https://widget.battleforthenet.com/widget.js" async></script>
+
 ## [BLOG](https://achamorr.github.io/eportfolio/blog)
 
 
