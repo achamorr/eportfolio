@@ -1,7 +1,12 @@
 [BLOG](https://achamorr.github.io/blog/)
 
 
-
+<form action="https://formspree.io/andrea.colleges@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
 
 # ANDREA CHAMORRO'S PAGE
 
@@ -54,10 +59,4 @@
     **District-wide Winner:** 1st place in Economics _(2017, 2016 & 2015)_ and 1st Place Social Media Campaign _(2016)_
 ### TREASURER, SOCIETY OF HISPANIC PROFESSIONAL ENGINEERS August 2017
 
-
-<script>
-  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
-    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
-  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/131342/script.js');
-</script>
 
