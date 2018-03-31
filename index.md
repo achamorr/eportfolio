@@ -1,4 +1,4 @@
-## [BLOG](https://achamorr.github.io/eportfolio/blog)
+[BLOG](https://achamorr.github.io/blog/)
 
 
 
