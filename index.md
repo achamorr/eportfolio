@@ -17,7 +17,7 @@
 ****
 
 ## EDUCATION
-### University of Colorado Boulder, Engineering Honors							            May 2021	
+### University of Colorado Boulder, Engineering Honors							            <p style="text-align: right"> May 2021 </p>	
 - B.S. in Computer Science; Minor in Business & Management	                    **GPA: 5.566**
 
 ----
