@@ -1,4 +1,4 @@
-[BLOG](https://achamorr.github.io/blog/)        [PUBLICATIONS](https://achamorr.github.io/blog/)
+<pre> [BLOG](https://achamorr.github.io/blog/)          [PUBLICATIONS](https://achamorr.github.io/blog/) </pre>
 
 <script>
   (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
