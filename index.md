@@ -9,9 +9,12 @@
 
 # ANDREA CHAMORRO
 
-### anch9699@colorado.edu | 970-549-0437 | (https://www.linkedin.com/in/andrea-chamorroq)   
+### anch9699@colorado.edu | 970-549-0437 | https://www.linkedin.com/in/andrea-chamorroq  
 
 ![](https://achamorr.github.io/eportfolio/22.JPG)
+
+----
+****
 
 ## EDUCATION
 ### University of Colorado Boulder, Engineering Honors							            May 2021	
@@ -21,12 +24,12 @@
 ****
 
 ## EXPERIENCE
-#### Unstable Design Lab, Boulder, CO	 August 2018- Present
-_DLA Assistant Researcher_
+### Unstable Design Lab, Boulder, CO	 August 2018- Present
+  - _DLA Assistant Researcher_
 - Developing a user interface to design and fabricate smart textiles, rapid prototyping textile and circuit design. 
 
-#### Computer Science Department, Boulder, CO	 August 2018- Present
-_Course Assistant_
+### Computer Science Department, Boulder, CO	 August 2018- Present
+    - _Course Assistant_
 - Facilitate programming and conceptual understanding of Discrete Structures course for current students. 
 
 ### CO- WY AMP REU, Fort Collins, CO	 May 2018- July 2018
