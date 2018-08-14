@@ -17,8 +17,11 @@
 ### University of Colorado Boulder, Engineering Honors							            May 2021	
 - B.S. in Computer Science; Minor in Business & Management	                    **GPA: 5.566**
 
+----
+****
+
 ## EXPERIENCE
-**Unstable Design Lab, Boulder, CO	 August 2018- Present**
+#### Unstable Design Lab, Boulder, CO	 August 2018- Present
 _DLA Assistant Researcher_
 - Developing a user interface to design and fabricate smart textiles, rapid prototyping textile and circuit design. 
 
@@ -26,10 +29,10 @@ _DLA Assistant Researcher_
 _Course Assistant_
 - Facilitate programming and conceptual understanding of Discrete Structures course for current students. 
 
-#### CO- WY AMP REU, Fort Collins, CO	 May 2018- July 2018
+### CO- WY AMP REU, Fort Collins, CO	 May 2018- July 2018
 _Software Development Researcher_	
 - Created WikifyDocs, a tool that leverages Wikipedia definitions to bring us closer to more accessible, automatically enhanced developer documentation. (
-o	Accepted to DysDoc3, doctoral symposium at the IEEE International Conference on Software Maintenance and Evolution in Madrid, Spain. 
+  -Accepted to DysDoc3, doctoral symposium at the IEEE International Conference on Software Maintenance and Evolution in Madrid, Spain. 
 
 ### Website Developer, USA	 October 2016- July 2018
 _Freelance_	
@@ -38,11 +41,14 @@ _Freelance_
 ### Mindscribe, Boulder, CO										          Fall 2017-May 2018
 _Electronics Lab Assistant_	
 - Tactile input electronics experimentation, Spanish translation, and vector-graphics design. Exposed to natural language processing techniques, early childhood environments and user centered design. (http://www.mindscribe.org)
-o	2nd Place Student Design Competition at 2018 Conference on Human Robot Interactions (HRI) in Chicago, Illinois.
+  -2nd Place Student Design Competition at 2018 Conference on Human Robot Interactions (HRI) in Chicago, Illinois.
 
 ### BrightTees, Grand Junction, CO	 Fall 2014- Spring 2015
 _Graphic Designer_ 
 - Started a custom designed t-shirt and commissioned digital art business, completed year-long entrepreneurial training and pitched business idea to an investor panel, raising $600 in startup seed funding. 
+
+----
+****
 
 ## LEADERSHIP
 ### Society of Hispanic Professional Engineers, Boulder, CO							Fall 2017-Present
@@ -53,12 +59,18 @@ _Vice President_
 _Regional Founder_											
 - Started first program to introduce youth ages 5-7 to science, technology, engineering and mathematics (STEM) through Lego Robotics in Grand Junction, CO, successfully leading to 17 new teams in one season, and coached 3 of these teams.
 
+----
+****
+
 ## SKILLS & RELEVANT COURSEWORK
 - English and Spanish (native)
 - Languages: C++, Python, Java, HTML, CSS
 - Design: Adobe Illustrator, Inkscape, Photoshop
 - 3D Printing, CAD, CNC machinery, Laser cutting, Arduino
 - Coursework: Intro to Programming in C++, Discrete Structures, Data Structures, Calculus 2, Electrical Engineering Projects
+
+----
+****
 
 ## ADDITIONAL INFORMATION 
 ### Future Business Leaders of America	 Fall 2013 – Spring 2017
