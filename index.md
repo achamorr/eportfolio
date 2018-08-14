@@ -1,4 +1,4 @@
-## <p align="center"> [BLOG](https://achamorr.github.io/blog/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PUBLICATIONS](https://achamorr.github.io/blog/) 
+### <p align="center"> [BLOG](https://achamorr.github.io/blog/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PUBLICATIONS](https://achamorr.github.io/blog/) 
 
 <script>
   (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
@@ -7,7 +7,7 @@
 </script>
 
 
-# ANDREA CHAMORRO <p align="center">
+# <p align="center"> ANDREA CHAMORRO
 
 ### anch9699@colorado.edu | 970-549-0437 | https://www.linkedin.com/in/andrea-chamorroq  
 
