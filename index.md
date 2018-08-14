@@ -12,7 +12,7 @@
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ANDREA CHAMORRO
 
-### anch9699@colorado.edu | 970-549-0437 | [](https://www.linkedin.com/in/andrea-chamorroq)
+### anch9699@colorado.edu | 970-549-0437 | [@andrea-chamorroq](https://www.linkedin.com/in/andrea-chamorroq)
 
 ![](https://achamorr.github.io/eportfolio/22.JPG)
 
