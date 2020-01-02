@@ -2,12 +2,6 @@
  ----
 ****
 
-<script>
-  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
-    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
-  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/131342/script.js');
-</script>
-
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ANDREA CHAMORRO
 
@@ -23,12 +17,17 @@
 
 ## EDUCATION
 ### University of Colorado Boulder, Engineering Honors ||  _May 2021_
-- B.S. in Computer Science; Minor in Business & Management	                    **GPA: 5.566**
+- B.S. in Computer Science; Minor in Business & Management	                    **GPA: 5.593**
 
 ----
 ****
 
 ## EXPERIENCE
+### Intel, Longmont, CO  ||   _January 2019 – present_
+_Firmware Engineer Intern, R&D_
+- Automating firmware processes in C++ and Python and data control with long-term goal of saving the company
+multiple years development hours, front end compilers, multithreading, unit testing, and two patents submitted.
+
 ### Unstable Design Lab, Boulder, CO ||  _August 2018- Present_
 _DLA Assistant Researcher_
 - Developing a user interface to design and fabricate smart textiles, rapid prototyping textile and circuit design. 
@@ -55,10 +54,25 @@ _Electronics Lab Assistant_
 - Tactile input electronics experimentation, Spanish translation, and vector-graphics design. Exposed to natural language processing techniques, early childhood environments and user centered design. (http://www.mindscribe.org)
   -2nd Place Student Design Competition at 2018 Conference on Human Robot Interactions (HRI) in Chicago, Illinois.
 
+----
+****
 
-### BrightTees, Grand Junction, CO  ||   _Fall 2014- Spring 2015_
-_Graphic Designer_ 
-- Started a custom designed t-shirt and commissioned digital art business, completed year-long entrepreneurial training and pitched business idea to an investor panel, raising $600 in startup seed funding. 
+## SKILLS & RELEVANT COURSEWORK
+- Python, C++, Java
+- Backend Development
+- Software/Firmware Dev
+- Data, Web Parsing, Search
+- AI, ML, Clustering Basics
+- Infrastructure/Accessibility
+- Documentation & Training
+- Technical Writing
+- English and Spanish (native)
+- Design: Adobe Illustrator, Inkscape, Photoshop
+- 3D Printing, CAD, CNC machinery, Laser cutting, Arduino
+- Coursework: Operating Systems,  Computer Architecture, Data Structures, Calculus 2, Electrical Engineering Projects
+
+**Hackathon:** PennApps, creating WikiWiz, Chrome extension bringing the knowledge of Wikipedia to your fingertips
+**On-Site Investments Training:** 2019 JP Morgan Corporate and Investment Banking Women's Conference
 
 ----
 ****
@@ -68,31 +82,7 @@ _Graphic Designer_
 _Vice President_									 
 - Our mission is to increase visibility of Hispanics in engineering professions. Trained at intensive 3-day National Institute for Leadership Advancement 2018 (NILA) in Oklahoma City, OK sponsored by P&G. 
 
-### Jr. FIRST Lego League, Grand Junction, CO   ||   _Fall 2016- Spring 2017_
-_Regional Founder_											
-- Started first program to introduce youth ages 5-7 to science, technology, engineering and mathematics (STEM) through Lego Robotics in Grand Junction, CO, successfully leading to 17 new teams in one season, and coached 3 of these teams.
-
-----
-****
-
-## SKILLS & RELEVANT COURSEWORK
-- English and Spanish (native)
-- Languages: C++, Python, Java, HTML, CSS
-- Design: Adobe Illustrator, Inkscape, Photoshop
-- 3D Printing, CAD, CNC machinery, Laser cutting, Arduino
-- Coursework: Intro to Programming in C++, Discrete Structures, Data Structures, Calculus 2, Electrical Engineering Projects
-
-----
-****
-
-## ADDITIONAL INFORMATION 
-### Future Business Leaders of America	 ||  _Fall 2013 – Spring 2017_
-- 4-year member and president of business club, achieving the following qualifications: 
-  - National Qualifier and State-wide Winner: 2nd place in E-Business _(2017)_ and 2nd place in Business Plan _(2015)_
-  - District-wide Winner: 1st place in Economics _(2017, 2016 & 2015)_ and 1st Place Social Media Campaign _(2016)_
-
-### MOSTEC, Summer Program @ MIT  ||   _Summer 2016_
-- Took 2-month Python programming and electronics course at MIT for high achieving minority high school students. 
-
-
-
+### McNair Scholar Program, Boulder, CO ||   _Fall 2017 – Present_
+_Scholar_
+- Honor awarded to conduct research and present it at conferences in preparation for computer science and
+cognitive science Ph.D, focused on studying ways to achieve super-fast training in the software engineering field.
